@@ -1,3 +1,6 @@
 body{
     background-color: coral;
 }
+.italic{
+    font-style: italic;
+}
